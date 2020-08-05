@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <>
             <footer className="w-100 bg-light text-center">
-                <p></p>
+                <p>© 2020 GoldenTech. All Rights Reserved | Terms and Conditions</p>
             </footer>
         </>
     );
